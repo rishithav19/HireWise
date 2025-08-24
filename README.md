@@ -75,7 +75,7 @@ Millions of semi-skilled and blue-collar workers struggle to find jobs as most p
 Here are outputs from our Streamlit app:  
  
 ![Output](images/output1.png)    
-![](images/output2.png)  
+![Recommendations](images/output2.png)  
 
 ---
 
